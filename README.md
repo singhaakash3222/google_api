@@ -8,4 +8,4 @@ define('GOOGLE_CLIENT_ID', 'Insert_Google_Client_ID');
 define('GOOGLE_CLIENT_SECRET', 'Insert_Google_Client_Secret');
 define('GOOGLE_REDIRECT_URL', 'Callback_URL');
 
-note:- All this add in config section
+note:- All this add in config.php
